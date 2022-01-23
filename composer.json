@@ -1,0 +1,15 @@
+{
+  "name": "borgenfalkskott/bs-wp-no-jquery",
+  "description": "This WordPress plugin says NO to jQuery on the frontend.",
+  "type": "wordpress-muplugin",
+  "require": {
+    "php": ">=7.4"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "tommyskott",
+      "email": "tommy@borgenfalk.se"
+    }
+  ]
+}
